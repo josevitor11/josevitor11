@@ -3,7 +3,7 @@
 # Olá, eu sou o José Vitor ✌️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/josevitor.09/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josé-vitor-tavares-santiago-a545b2375/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/josevitor11/)
 
 ![José Vitor](https://github-readme-stats.vercel.app/api?username=josevitor11&show_icons=true&theme=dracula)
 
